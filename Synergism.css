@@ -21,6 +21,7 @@ body {
     color: white;
     margin: 0;
     box-sizing: border-box;
+    font-variant-numeric: tabular-nums;
 }
 
 body.loading {
