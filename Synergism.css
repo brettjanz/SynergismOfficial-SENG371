@@ -1174,6 +1174,7 @@ nav li:hover {
 
 .talismanShardIcon {
     width: 32px;
+    image-rendering: auto;
 }
 
 .talismanShardAmount {
@@ -1229,6 +1230,7 @@ nav li:hover {
     width: 72px;
     border: 4px solid white;
     cursor: pointer;
+    image-rendering: auto;
 }
 
 .talismanLevel {
@@ -1487,11 +1489,13 @@ nav li:hover {
     font-size: 0;
     align-self: center;
     margin-top: 10px;
+    image-rendering: auto;
 }
 
 #challengeIcons .challengeLevels {
     font-size: 12px;
     text-align: center;
+    image-rendering: auto;
 }
 
 #challengeDetails {
@@ -2151,6 +2155,7 @@ p[id$="BlessingsTotal"] {
 
 .cubeIcon {
     border-spacing: 0;
+    image-rendering: auto;
 }
 
 .cubeTab {
@@ -2574,6 +2579,7 @@ p[id$="BlessingsTotal"] {
     height: 64px;
     width: 64px;
     margin-right: 20px;
+    image-rendering: auto;
 }
 
 .runeTexts {
